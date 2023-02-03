@@ -61,6 +61,6 @@ Screenshot of the Web Page:
 The usage part of CS shown in this step, the part of IT is similar to these.
 ![1675419065355](https://user-images.githubusercontent.com/118656659/216573305-13fc64c1-5624-4592-bc8b-21a70e492a46.png)
 
-## Conclusion and Reflection
+## 🌌 Conclusion and Reflection
 This web can realize most functions (select major, add courses, display GPA, calculate GPA, draw line chart...), and can be put into basic use.
-But there is no restriction on adding the same course (for example, I can add two same courses in the same semester).
+But there is no restriction on adding the same course (for example, I can add two same courses in the same semester), and there is no edit and delete function.
