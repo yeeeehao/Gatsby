@@ -2,6 +2,7 @@
 
 The GPA Tracker of this project is for 62x and 63x CS and IT students. Its functions include adding Semester, adding courses to Semester, automatically calculating the average GPA of each semester and the total GPA of all semesters, and drawing a line chart based on the GPA of each semester.
 
+
 ## 🪐 Installation
 
 1. Install NVM (Node Version Manager):
@@ -28,6 +29,7 @@ npm i react-chartjs-2
 
 5. Clone all files in this folder.
 
+
 ## 🌠 Usage
 
 1. Place an entire folder in the "pages" directory.
@@ -38,6 +40,7 @@ npm run develop
 ```
 
 3. Enter the following link to view: localhost:8000/project1
+
 
 ## 🛸 Finished product display
 
@@ -60,6 +63,7 @@ Screenshot of the Web Page:
 
 The usage part of CS shown in this step, the part of IT is similar to these.
 ![1675419065355](https://user-images.githubusercontent.com/118656659/216573305-13fc64c1-5624-4592-bc8b-21a70e492a46.png)
+
 
 ## 🌌 Conclusion and Reflection
 This web can realize most functions (select major, add courses, display GPA, calculate GPA, draw line chart...), and can be put into basic use.
