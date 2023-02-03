@@ -1,4 +1,5 @@
 import * as React from "react"
+import "bootstrap/dist/css/bootstrap.min.css"
 import { Link } from "gatsby"
 import { Card, Container, Button, Row } from "react-bootstrap"
 

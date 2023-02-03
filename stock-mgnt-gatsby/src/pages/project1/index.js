@@ -1,9 +1,9 @@
 import React from "react"
-import { Container, Button } from "react-bootstrap"
+import { Button } from "react-bootstrap"
 
 function GradeTracker() {
   return (
-    <Container>
+    <>
       <div
         class="border border-light"
         style={{
@@ -14,8 +14,8 @@ function GradeTracker() {
           backgroundColor: "rgba(244,244,244,0.5)",
         }}
       >
-        <h1 style={{ marginTop: "3rem" }}>Grade Tracker</h1>
-        <h4 style={{ marginBottom: "2rem" }}>
+        <h1 style={{ marginTop: "3rem", fontWeight: "bold" }}>Grade Tracker</h1>
+        <h4 style={{ marginBottom: "2rem", fontWeight: "bold" }}>
           for VMS student (for 62x - 63x)
         </h4>
         <div
@@ -34,7 +34,7 @@ function GradeTracker() {
           </Button>
         </div>
       </div>
-    </Container>
+    </>
   )
 }
 
