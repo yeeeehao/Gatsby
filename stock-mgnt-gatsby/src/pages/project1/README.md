@@ -42,5 +42,6 @@ npm run develop
 ## 🛸 Finished product display
 
 [GPA Tracker](https://yeeeehao.github.io/project1/)
+
 Use Screenshot:
 ![1675414962814](https://user-images.githubusercontent.com/118656659/216557695-93601847-ebba-45a6-9c74-38f0d7b8be49.png)
