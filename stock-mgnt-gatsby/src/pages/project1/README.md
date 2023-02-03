@@ -1,10 +1,8 @@
-# 🔠 GPA Tracker for VMS Student (for 62x - 63x)
+# 🚀 GPA Tracker for VMS Student (for 62x - 63x)
 
 The GPA Tracker of this project is for 62x and 63x CS and IT students. Its functions include adding Semester, adding courses to Semester, automatically calculating the average GPA of each semester and the total GPA of all semesters, and drawing a line chart based on the GPA of each semester.
 
-Finished product display: [GPA Tracker](https://yeeeehao.github.io/project1/)
-
-## 🔥 Instructions
+## 🪐 Installation
 
 1. Install NVM (Node Version Manager):
    https://github.com/nvm-sh/nvm
@@ -29,9 +27,18 @@ npm i react-chartjs-2
 ```
 
 5. Clone all files in this folder.
-6. Place an entire folder in the "pages" directory.
-7. Enter the folder and run the program:
+
+## 🌠 Usage
+
+1. Place an entire folder in the "pages" directory.
+
+2. Enter the folder and run the program:
 ```bash
 npm run develop
 ```
-8. Enter the following link to view: "http://localhost:8000/project1"
+
+3. Enter the following link to view: localhost:8000/project1
+
+## 🛸 Finished product display
+
+[GPA Tracker](https://yeeeehao.github.io/project1/)
