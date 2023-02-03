@@ -27,3 +27,11 @@ npm i react-use
 npm i chart.js
 npm i react-chartjs-2
 ```
+
+5. Clone all files in this folder.
+6. Place an entire folder in the "pages" directory.
+7. Enter the folder and run the program:
+```bash
+npm run develop
+```
+8. Enter the following link to view: "http://localhost:8000/project1"
