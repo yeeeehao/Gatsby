@@ -44,4 +44,9 @@ npm run develop
 [GPA Tracker](https://yeeeehao.github.io/project1/)
 
 Use Screenshot:
-![1675414962814](https://user-images.githubusercontent.com/118656659/216557695-93601847-ebba-45a6-9c74-38f0d7b8be49.png)
+
+1. Choose Major:
+![1675415352474](https://user-images.githubusercontent.com/118656659/216558914-255b07d2-3efb-418a-945a-f3c4515ac82e.png)
+
+2. Add Semester:
+![1675415520357](https://user-images.githubusercontent.com/118656659/216559529-d6c02e94-8d39-44c6-bc17-64e762cb4b9c.png)
